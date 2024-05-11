@@ -1,5 +1,7 @@
 # RT_UQ_scoping_review
-Repo for scoping review paper titled: "Artificial Intelligence Uncertainty Quantification in Radiotherapy Applications - A Scoping Review". 
+Repo for scoping review paper titled: "Artificial Intelligence Uncertainty Quantification in Radiotherapy Applications - A Scoping Review".
+
+URL links to the manuscript will be provided here when applicable. 
 
 <img src= "graphical_abstract.png">
 
