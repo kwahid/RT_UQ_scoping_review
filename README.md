@@ -7,6 +7,4 @@ URL link to peer-review manuscript: will be updated soon.
 
 <img src= "graphical_abstract.png">
 
-This repo contains a Jupyter notebook of the main analysis script (Analysis_final.ipynb). Utilizes input files (CSV and excel) that are provided at the following Figshare doi: 10.6084/m9.figshare.25535017. 
-
-Corresponding data can be found on Figshare: https://doi.org/10.6084/m9.figshare.25535017.v1. 
+This repo contains a Jupyter notebook of the main analysis script (Analysis_final.ipynb). Utilizes input files (CSV and excel) that are provided at the following Figshare doi: https://doi.org/10.6084/m9.figshare.25535017.v1. 
