@@ -3,7 +3,7 @@ Repo for scoping review paper titled: "Artificial Intelligence Uncertainty Quant
 
 URL link to preprint: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118597/. 
 
-URL link to peer-review manuscript: will be updated soon.
+URL link to peer-review manuscript: https://www.sciencedirect.com/science/article/pii/S0167814024035205.
 
 <img src= "graphical_abstract.png">
 
